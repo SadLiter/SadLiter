@@ -9,7 +9,7 @@
 </h3>
 <a href="#-my-skill-sets--"><img src="https://raw.githubusercontent.com/HighAmbition211/HighAmbition211/auxiliary/others/colorful_line.gif"></a>
 
-### ☀️Summary
+### ☀️Summary)
 
 <h1 align="left">
   <a href="https://t.me/armulyukov_17" target="_blank" style="text-decoration: none; border: none;">
