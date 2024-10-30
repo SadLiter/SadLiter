@@ -1,5 +1,7 @@
 <h1 align="left">Hi, I'm Valentin</h1>
 
+<a href="#"><img align="left" alt="React" width="100%" style="padding:10px;" src="https://raw.githubusercontent.com/HighAmbition211/HighAmbition211/auxiliary/others/Welcome.svg" /></a>
+
 ###
 
 <div align="left">
