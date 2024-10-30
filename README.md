@@ -10,7 +10,7 @@
 </div>
 
 <br  />
-
+<br  />
 ### 🐘Education 
 <a href="https://misis.ru/">NUST MISIS</a> | Moscow | BS | Computer Science | 2023-2027
 
