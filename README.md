@@ -2,7 +2,7 @@
 
 <h1 align="left">Hi, I'm Valentin 👋</h1>
 
-<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/82/Telegram_logo.svg/1200px-Telegram_logo.svg.png" height=40 alt="Telegram logo">
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/82/Telegram_logo.svg/1200px-Telegram_logo.svg.png" height=40 alt="Telegram logo" href="https://t.me/SadLiter">
 
 ### ☀️Summary
 
