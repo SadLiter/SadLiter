@@ -14,13 +14,14 @@ Developed Telegram bots: the latest project involved creating a schedule bot for
 - [Yandex: Machine Learning](https://lyceum.yandex.ru/ml): Machine Learning algorithms
 - Bioinformatics Institute: Fundamentals of statistics
 
-### 🌍Languages
-*   English: Upper Intermediate (B2)
-*   Russian: Native
 
 ### 🏆Competitions
 *  IT Hackathon in Novgorod (4/32) [2024] [LLM] - 4th place. Development and implementation of AI for environmental tasks.
 *  MTS True Tech Champ (finalist) [2024] [Algorithms] - algorithm development
+
+### 🌍Languages
+*   English: Upper Intermediate (B2)
+*   Russian: Native
 
 <a href="#"><img align="left" alt="Finish" width="100%" style="padding-right:10px;" src="https://raw.githubusercontent.com/HighAmbition211/HighAmbition211/auxiliary/others/Finish.svg" /></a>
 
