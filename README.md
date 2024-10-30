@@ -1,8 +1,9 @@
 <a href="#"><img align="left" alt="React" width="100%" style="padding:10px;" src="https://raw.githubusercontent.com/HighAmbition211/HighAmbition211/auxiliary/others/Welcome.svg" /></a>
 
 <h1 align="left">Hi, I'm Valentin 👋</h1>
-
-<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/82/Telegram_logo.svg/1200px-Telegram_logo.svg.png" height=40 alt="Telegram logo" href="https://t.me/SadLiter">
+<a href="https://example.com" target="_blank">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/82/Telegram_logo.svg/1200px-Telegram_logo.svg.png" height=40 alt="Telegram logo">
+</a>
 
 ### ☀️Summary
 
