@@ -8,7 +8,6 @@
   <p>
     Data Scientist (ML | LLM)
   </p>
-  <a href="#"><img align="left" alt="Finish" width="100%" style="padding-right:10px;" src="https://raw.githubusercontent.com/HighAmbition211/HighAmbition211/auxiliary/others/Finish.svg" /></a>
 </div>
 
 <br>
@@ -31,6 +30,8 @@
 ### 🏆Competitions
 *  IT Hackathon in Novgorod (4/32) [2024] [LLM] - 4th place. Development and implementation of AI for environmental tasks.
 *  MTS True Tech Champ (finalist) [2024] [Algorithms] - algorithm development
+
+<a href="#"><img align="left" alt="Finish" width="100%" style="padding-right:10px;" src="https://raw.githubusercontent.com/HighAmbition211/HighAmbition211/auxiliary/others/Finish.svg" /></a>
 
 ###
 
