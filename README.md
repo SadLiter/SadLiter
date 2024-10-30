@@ -2,18 +2,9 @@
 
 <a href="#"><img align="left" alt="React" width="100%" style="padding:10px;" src="https://raw.githubusercontent.com/HighAmbition211/HighAmbition211/auxiliary/others/Welcome.svg" /></a>
 
-###
+### ☀️Summary
 
-<div align="left">
-  <p>
-    Data Scientist (ML | LLM)
-  </p>
-</div>
-
-<br>
-<br>
-<br>
-
+Developed Telegram bots: the latest project involved creating a schedule bot for college classes. Currently studying ML and DL, participating in hackathons, and constantly developing my skills.
 
 ### 🐘Education 
 <a href="https://misis.ru/">NUST MISIS</a> | Moscow | BS | Computer Science | 2023-2027
