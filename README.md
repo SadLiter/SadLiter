@@ -68,6 +68,8 @@ Developed Telegram bots: the latest project involved creating a schedule bot for
   <img width="12" />
   <img src="https://github.com/devicons/devicon/blob/v2.16.0/icons/postgresql/postgresql-original.svg" height="40" alt="postgresql logo" />
   <img width="12" />
+  <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original.svg" height="40" alt="mysql logo" />
+  <img width="12" />
 </div>
 
 <br clear="both" />
