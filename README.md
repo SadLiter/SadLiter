@@ -59,18 +59,6 @@ Developed Telegram bots: the latest project involved creating a schedule bot for
         <a href="https://csharp-station.com/" target="_blank"><img alt="C#" width="45" height="45" style="padding:10px;" src="https://raw.githubusercontent.com/HighAmbition211/HighAmbition211/auxiliary/languages/c%23.svg" /></a>
         <br><h4>C#</h4>
     </td>
-    <td align="center" width="90">
-        <a href="https://go.dev/" target="_blank"><img alt="Scala" width="45" height="45" style="padding:10px;" src="https://github.com/devicons/devicon/blob/v2.16.0/icons/go/go-original.svg" /></a>
-        <br><h4>Go</h4>
-    </td>
-    <td align="center" width="90">
-        <a href="https://www.rust-lang.org/" target="_blank"><img alt="Scala" width="45" height="45" style="padding:10px;" src="https://github.com/devicons/devicon/blob/v2.16.0/icons/rust/rust-original.svg" /></a>
-        <br><h4>Rust</h4>
-    </td>
-    <td align="center" width="90">
-        <a href="https://www.autohotkey.com/" target="_blank"><img alt="Scala" width="45" height="45" style="padding:10px;" src="https://upload.wikimedia.org/wikipedia/commons/5/5e/Modern_AutoHotkey_Logo_%28no_text%29.svg" /></a>
-        <br><h4>AHK</h4>
-    </td>
 </table>
 
 ### Libraries
@@ -143,6 +131,14 @@ Developed Telegram bots: the latest project involved creating a schedule bot for
         <img alt="Postman" width="45" height="45" style="padding:10px;" src="https://github.com/devicons/devicon/blob/v2.16.0/icons/postman/postman-original.svg" />
         <br><h4>Postman</h4>
     </td>
+    <td align="center" width="90">
+        <img alt="Blender" width="45" height="45" style="padding:10px;" src="https://github.com/devicons/devicon/blob/v2.16.0/icons/blender/blender-original.svg" />
+        <br><h4>Blender</h4>
+    </td>
+    <td align="center" width="90">
+        <img alt="Figmar" width="45" height="45" style="padding:10px;" src="https://github.com/devicons/devicon/blob/v2.16.0/icons/figma/figma-original.svg" />
+        <br><h4>Figma</h4>
+    </td>
 </table>
 
 ### Databases
@@ -152,11 +148,11 @@ Developed Telegram bots: the latest project involved creating a schedule bot for
         <br><h4>PostgreSQL</h4>
     </td>
     <td align="center" width="90">
-        <img alt="MySQL" width="45" height="45" style="padding:10px;" src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original.svg" />
-        <br><h4>MySQL</h4>
+        <img alt="SQLite" width="45" height="45" style="padding:10px;" src="https://github.com/devicons/devicon/blob/v2.16.0/icons/sqlite/sqlite-original.svg" />
+        <br><h4>SQLite</h4>
     </td>
     <td align="center" width="90">
-        <img alt="SQLite" width="45" height="45" style="padding:10px;" src="https://github.com/devicons/devicon/blob/v2.16.0/icons/sqlite/sqlite-original.svg" />
+        <img alt="Microsoft SQL Server" width="45" height="45" style="padding:10px;" src="https://github.com/devicons/devicon/blob/master/icons/microsoftsqlserver/microsoftsqlserver-original.svg" />
         <br><h4>SQLite</h4>
     </td>
 </table>
