@@ -8,12 +8,6 @@
 </h3>
 <a href="#-my-skill-sets--"><img src="https://raw.githubusercontent.com/HighAmbition211/HighAmbition211/auxiliary/others/colorful_line.gif"></a>
 
-<a href="https://t.me/SadLiter" target="_blank">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/82/Telegram_logo.svg/1200px-Telegram_logo.svg.png" height=40 alt="Telegram logo">
-</a>
-
-[my CV](https://drive.google.com/file/d/14G8H9h63nhcekbyoXvar8TrYG_pvaHox/view?usp=sharing)
-
 ### ☀️Summary
 
 <h1 align="left">
@@ -40,6 +34,9 @@ Developed Telegram bots: the latest project involved creating a schedule bot for
 ### 🏆Competitions
 *  [IT Hackathon in Novgorod](https://hacks-ai.ru/) (4/32) [2024] [LLM] - 4th place. Development and implementation of AI for environmental tasks.
 *  [MTS True Tech Champ](https://truetechday.ru/hack) (finalist) [2024] [Algorithms] - algorithm development
+*  [Gameton DatsMagic](https://datsteam.dev/datsmagic) (finalist) [2024] [API] - Interaction with API
+*  [BIV Hack Challenge](https://biv-challenge.ru/) (5/64) [2024] [NLP] - Automation of payment processing
+*  [EVRAZ Hackathon](https://xn--80aaaairqt2ajzt9a.xn--p1ai/#rec812246603) (11/52) [2024] [LLM] - CodeReview bot
 
 ### 🌍Languages
 *   English: Upper Intermediate (B2)
