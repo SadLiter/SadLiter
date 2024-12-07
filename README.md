@@ -42,8 +42,6 @@ Developed Telegram bots: the latest project involved creating a schedule bot for
 *   English: Upper Intermediate (B2)
 *   Russian: Native
 
-<a href="#"><img align="left" alt="Finish" width="100%" style="padding-right:10px;" src="https://raw.githubusercontent.com/HighAmbition211/HighAmbition211/auxiliary/others/Finish.svg" /></a>
-
 ###
 
 ### Languages
