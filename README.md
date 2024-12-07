@@ -1,7 +1,13 @@
 <a href="#"><img align="left" alt="React" width="100%" style="padding:10px;" src="https://raw.githubusercontent.com/HighAmbition211/HighAmbition211/auxiliary/others/Welcome.svg" /></a>
 
-<h1 align="left">Hi, I'm Valentin 👋</h1>
-<h1>Data Scientist (ML | NLP/LLM)</h1>
+<h1 align="center">Hi, I'm Mihail 👋</h1>
+<h3>
+- Data Scientist (ML | NLP/LLM)<br/>
+- Full-stack developer<br/>
+- QA engineer<br/>
+</h3>
+<a href="#-my-skill-sets--"><img src="https://raw.githubusercontent.com/HighAmbition211/HighAmbition211/auxiliary/others/colorful_line.gif"></a>
+
 <a href="https://t.me/SadLiter" target="_blank">
   <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/82/Telegram_logo.svg/1200px-Telegram_logo.svg.png" height=40 alt="Telegram logo">
 </a>
