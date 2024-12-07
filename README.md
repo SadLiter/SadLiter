@@ -148,7 +148,7 @@ Developed Telegram bots: the latest project involved creating a schedule bot for
     </td>
     <td align="center" width="90">
         <img alt="Microsoft SQL Server" width="45" height="45" style="padding:10px;" src="https://github.com/devicons/devicon/blob/master/icons/microsoftsqlserver/microsoftsqlserver-original.svg" />
-        <br><h4>SQLite</h4>
+        <br><h4>Microsoft SQL Server</h4>
     </td>
 </table>
 
