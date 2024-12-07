@@ -54,6 +54,14 @@ Developed Telegram bots: the latest project involved creating a schedule bot for
         <a href="https://csharp-station.com/" target="_blank"><img alt="C#" width="45" height="45" style="padding:10px;" src="https://raw.githubusercontent.com/HighAmbition211/HighAmbition211/auxiliary/languages/c%23.svg" /></a>
         <br><h4>C#</h4>
     </td>
+    <td align="center" width="90">
+        <a href="https://csharp-station.com/" target="_blank"><img alt="CSS" width="45" height="45" style="padding:10px;" src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" /></a>
+        <br><h4>HTML</h4>
+    </td>
+    <td align="center" width="90">
+        <a href="https://csharp-station.com/" target="_blank"><img alt="HTML" width="45" height="45" style="padding:10px;" src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original.svg" /></a>
+        <br><h4>CSS</h4>
+    </td>
 </table>
 
 ### Libraries
