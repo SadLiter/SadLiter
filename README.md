@@ -1,6 +1,6 @@
 <a href="#"><img align="left" alt="React" width="100%" style="padding:10px;" src="https://raw.githubusercontent.com/HighAmbition211/HighAmbition211/auxiliary/others/Welcome.svg" /></a>
 
-<h1 align="center">Hi, I'm Mihail 👋</h1>
+<h1 align="center">Hi, I'm Valentin 👋</h1>
 <h3>
 - Data Scientist (ML | NLP/LLM)<br/>
 - Full-stack developer<br/>
@@ -16,6 +16,16 @@
 
 ### ☀️Summary
 
+<h1 align="left">
+  <a href="https://t.me/SadLiter" target="_blank" style="text-decoration: none; border: none;">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/82/Telegram_logo.svg/1200px-Telegram_logo.svg.png" height="40" alt="Telegram logo">
+  </a>
+   
+  <a href="https://drive.google.com/file/d/14G8H9h63nhcekbyoXvar8TrYG_pvaHox/view?usp=sharing" target="_blank" style="text-decoration: none; border: none;">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/9/9f/Curriculum-vitae-warning-icon.svg" height="40" alt="Warning icon">
+  </a>
+</h1>
+
 Developed Telegram bots: the latest project involved creating a schedule bot for college classes. Currently studying ML and DL, participating in hackathons, and constantly developing my skills.
 
 ### 🐘Education 
@@ -24,12 +34,12 @@ Developed Telegram bots: the latest project involved creating a schedule bot for
 ### 👨‍🎓Additional Education
 - [Deep Learning School by MIPT (2024)](https://dls.samcs.ru/): 2 semesters of machine learning and neural networks (NLP)
 - [Yandex: Machine Learning](https://lyceum.yandex.ru/ml): Machine Learning algorithms
-- Bioinformatics Institute: Fundamentals of statistics
+- [Bioinformatics Institute](https://stepik.org/course/76/syllabus): Fundamentals of statistics
 
 
 ### 🏆Competitions
-*  IT Hackathon in Novgorod (4/32) [2024] [LLM] - 4th place. Development and implementation of AI for environmental tasks.
-*  MTS True Tech Champ (finalist) [2024] [Algorithms] - algorithm development
+*  [IT Hackathon in Novgorod](https://hacks-ai.ru/) (4/32) [2024] [LLM] - 4th place. Development and implementation of AI for environmental tasks.
+*  [MTS True Tech Champ](https://truetechday.ru/hack) (finalist) [2024] [Algorithms] - algorithm development
 
 ### 🌍Languages
 *   English: Upper Intermediate (B2)
@@ -39,43 +49,120 @@ Developed Telegram bots: the latest project involved creating a schedule bot for
 
 ###
 
-<h1> My Skill Sets <a href="#-my-skill-sets--"><img src = "https://raw.githubusercontent.com/HighAmbition211/HighAmbition211/auxiliary/others/skill.gif" width = 32px></a> </h1>
+### Languages
+<table>
+    <td align="center" width="90">
+        <a href="https://www.python.org/" target="_blank"><img alt="Python" width="45" height="45" style="padding:10px;" src="https://raw.githubusercontent.com/HighAmbition211/HighAmbition211/auxiliary/languages/python.svg" /></a>
+        <br><h4>Python</h4>
+    </td>
+    <td align="center" width="90">
+        <a href="https://csharp-station.com/" target="_blank"><img alt="C#" width="45" height="45" style="padding:10px;" src="https://raw.githubusercontent.com/HighAmbition211/HighAmbition211/auxiliary/languages/c%23.svg" /></a>
+        <br><h4>C#</h4>
+    </td>
+    <td align="center" width="90">
+        <a href="https://go.dev/" target="_blank"><img alt="Scala" width="45" height="45" style="padding:10px;" src="https://github.com/devicons/devicon/blob/v2.16.0/icons/go/go-original.svg" /></a>
+        <br><h4>Go</h4>
+    </td>
+    <td align="center" width="90">
+        <a href="https://www.rust-lang.org/" target="_blank"><img alt="Scala" width="45" height="45" style="padding:10px;" src="https://github.com/devicons/devicon/blob/v2.16.0/icons/rust/rust-original.svg" /></a>
+        <br><h4>Rust</h4>
+    </td>
+    <td align="center" width="90">
+        <a href="https://www.autohotkey.com/" target="_blank"><img alt="Scala" width="45" height="45" style="padding:10px;" src="https://upload.wikimedia.org/wikipedia/commons/5/5e/Modern_AutoHotkey_Logo_%28no_text%29.svg" /></a>
+        <br><h4>AHK</h4>
+    </td>
+</table>
 
-<div align="left">
-  <img alt="Python" width="45" height="45" src="https://raw.githubusercontent.com/HighAmbition211/HighAmbition211/auxiliary/languages/python.svg" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" height="40" alt="numpy logo"  />
-  <img width="12" />
-  <img src="https://github.com/devicons/devicon/blob/v2.16.0/icons/pytorch/pytorch-original.svg" height="40" alt="PyTorch logo" />
-  <img width="12" />
-  <img src="https://github.com/devicons/devicon/blob/v2.16.0/icons/pandas/pandas-original-wordmark.svg" height="40" alt="Pandas logo" />
-  <img width="12" />
-  <img alt="Git" width="45" height="45" src="https://raw.githubusercontent.com/HighAmbition211/HighAmbition211/auxiliary/tools/Github.gif" />
-  <img width="12" />
-  <img src="https://github.com/devicons/devicon/blob/v2.16.0/icons/scikitlearn/scikitlearn-original.svg" height="40" alt="scikit learn logo"  />
-  <img width="12" />
-  <img alt="C#" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="40" alt="csharp logo"  />
-  <img width="12" />
-  <img alt="HTML" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5 logo"  />
-  <img width="12" />
-  <img alt="CSS" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="css3 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="git logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/visualstudio/visualstudio-plain.svg" height="40" alt="visualstudio logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="40" alt="vscode logo"  />
-  <img width="12" />
-  <img src="https://github.com/devicons/devicon/blob/v2.16.0/icons/linux/linux-original.svg" height="40" alt="linux logo"  />
-  <img width="12" />
-  <img src="https://github.com/devicons/devicon/blob/v2.16.0/icons/matplotlib/matplotlib-original-wordmark.svg" height="40" alt="matplotlib logo" />
-  <img width="12" />
-  <img src="https://github.com/devicons/devicon/blob/v2.16.0/icons/blender/blender-original.svg" height="40" alt="blender logo" />
-  <img width="12" />
-  <img src="https://github.com/devicons/devicon/blob/v2.16.0/icons/postgresql/postgresql-original.svg" height="40" alt="postgresql logo" />
-  <img width="12" />
-  <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original.svg" height="40" alt="mysql logo" />
-  <img width="12" />
-</div>
+### Libraries
+<table>
+    <td align="center" width="90">
+        <img alt="NumPy" width="45" height="45" style="padding:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" />
+        <br><h4>NumPy</h4>
+    </td>
+    <td align="center" width="90">
+        <img alt="Pandas" width="45" height="45" style="padding:10px;" src="https://github.com/devicons/devicon/blob/v2.16.0/icons/pandas/pandas-original-wordmark.svg" />
+        <br><h4>Pandas</h4>
+    </td>
+    <td align="center" width="90">
+        <img alt="Scikit-learn" width="45" height="45" style="padding:10px;" src="https://github.com/devicons/devicon/blob/v2.16.0/icons/scikitlearn/scikitlearn-original.svg" />
+        <br><h4>Scikit-learn</h4>
+    </td>
+    <td align="center" width="90">
+        <img alt="Matplotlib" width="45" height="45" style="padding:10px;" src="https://github.com/devicons/devicon/blob/v2.16.0/icons/matplotlib/matplotlib-original-wordmark.svg" />
+        <br><h4>Matplotlib</h4>
+    </td>
+</table>
+
+### Frameworks
+<table>
+    <td align="center" width="90">
+        <img alt="Selenium" width="45" height="45" style="padding:10px;" src="https://github.com/devicons/devicon/blob/v2.16.0/icons/selenium/selenium-original.svg" />
+        <br><h4>Selenium</h4>
+    </td>
+    <td align="center" width="90">
+        <img alt="Flask" width="45" height="45" style="padding:10px;" src="https://github.com/devicons/devicon/blob/v2.16.0/icons/flask/flask-original.svg" />
+        <br><h4>Flask</h4>
+    </td>
+    <td align="center" width="90">
+        <img alt="FastAPI" width="45" height="45" style="padding:10px;" src="https://github.com/devicons/devicon/blob/v2.16.0/icons/fastapi/fastapi-original.svg" />
+        <br><h4>FastAPI</h4>
+    </td>
+    <td align="center" width="90">
+        <img alt="Django" width="45" height="45" style="padding:10px;" src="https://github.com/devicons/devicon/blob/v2.16.0/icons/django/django-plain.svg" />
+        <br><h4>Django</h4>
+    </td>
+    <td align="center" width="90">
+        <img alt="PyTorch" width="45" height="45" style="padding:10px;" src="https://github.com/devicons/devicon/blob/v2.16.0/icons/pytorch/pytorch-original.svg" />
+        <br><h4>PyTorch</h4>
+    </td>
+</table>
+
+### Tools
+<table>
+    <td align="center" width="90">
+        <img alt="Git" width="45" height="45" style="padding:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
+        <br><h4>Git</h4>
+    </td>
+    <td align="center" width="90">
+        <img alt="GitHub" width="45" height="45" style="padding:10px;" src="https://raw.githubusercontent.com/HighAmbition211/HighAmbition211/auxiliary/tools/Github.gif" />
+        <br><h4>GitHub</h4>
+    </td>
+    <td align="center" width="90">
+        <img alt="VSCode" width="45" height="45" style="padding:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" />
+        <br><h4>VS Code</h4>
+    </td>
+    <td align="center" width="90">
+        <img alt="Visual Studio" width="45" height="45" style="padding:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/visualstudio/visualstudio-plain.svg" />
+        <br><h4>Visual Studio</h4>
+    </td>
+    <td align="center" width="90">
+        <img alt="Linux" width="45" height="45" style="padding:10px;" src="https://github.com/devicons/devicon/blob/v2.16.0/icons/linux/linux-original.svg" />
+        <br><h4>Linux</h4>
+    </td>
+    <td align="center" width="90">
+        <img alt="Postman" width="45" height="45" style="padding:10px;" src="https://github.com/devicons/devicon/blob/v2.16.0/icons/postman/postman-original.svg" />
+        <br><h4>Postman</h4>
+    </td>
+</table>
+
+### Databases
+<table>
+    <td align="center" width="90">
+        <img alt="PostgreSQL" width="45" height="45" style="padding:10px;" src="https://github.com/devicons/devicon/blob/v2.16.0/icons/postgresql/postgresql-original.svg" />
+        <br><h4>PostgreSQL</h4>
+    </td>
+    <td align="center" width="90">
+        <img alt="MySQL" width="45" height="45" style="padding:10px;" src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original.svg" />
+        <br><h4>MySQL</h4>
+    </td>
+    <td align="center" width="90">
+        <img alt="SQLite" width="45" height="45" style="padding:10px;" src="https://github.com/devicons/devicon/blob/v2.16.0/icons/sqlite/sqlite-original.svg" />
+        <br><h4>SQLite</h4>
+    </td>
+</table>
+
+<br clear="both" />
+
+<a href="#"><img align="left" alt="Finish" width="100%" style="padding-right:10px;" src="https://raw.githubusercontent.com/HighAmbition211/HighAmbition211/auxiliary/others/Finish.svg" /></a>
 
 <br clear="both" />
