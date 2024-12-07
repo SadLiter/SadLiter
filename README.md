@@ -106,6 +106,10 @@ Developed Telegram bots: the latest project involved creating a schedule bot for
         <img alt="PyTorch" width="45" height="45" style="padding:10px;" src="https://github.com/devicons/devicon/blob/v2.16.0/icons/pytorch/pytorch-original.svg" />
         <br><h4>PyTorch</h4>
     </td>
+    <td align="center" width="90">
+        <img alt="Qt" width="45" height="45" style="padding:10px;" src="https://github.com/devicons/devicon/blob/v2.16.0/icons/qt/qt-original.svg" />
+        <br><h4>Qt</h4>
+    </td>
 </table>
 
 ### Tools
