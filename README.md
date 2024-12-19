@@ -114,6 +114,10 @@ Developed Telegram bots: the latest project involved creating a schedule bot for
         <img alt="PyTest" width="45" height="45" style="padding:10px;" src="https://github.com/devicons/devicon/blob/v2.16.0/icons/pytest/pytest-original.svg" />
         <br><h4>PyTest</h4>
     </td>
+    <td align="center" width="90">
+        <img alt="JUnit" width="45" height="45" style="padding:10px;" src="https://github.com/devicons/devicon/blob/master/icons/junit/junit-original.svg" />
+        <br><h4>JUnit</h4>
+    </td>
 </table>
 
 ### Tools
