@@ -35,7 +35,8 @@ Developed Telegram bots: the latest project involved creating a schedule bot for
 *  [IT Hackathon in Novgorod](https://hacks-ai.ru/) (4/32) [2024] [LLM] - 4th place. Development and implementation of AI for environmental tasks.
 *  [BIV Hack Challenge](https://biv-challenge.ru/) (5/64) [2024] [NLP] - Automation of payment processing
 *  [EVRAZ Hackathon](https://xn--80aaaairqt2ajzt9a.xn--p1ai/#rec812246603) (11/52) [2024] [LLM] - CodeReview bot
-*  [Gameton DatsMagic](https://datsteam.dev/datsmagic) (17/262) [2024] [API] - Interaction with API
+*  [Gameton DatsMagic](https://datsteam.dev/datsmagic) (17/475) [2024] [API] - Interaction with API
+*  [Gameton DatsNewWay](https://datsteam.dev/datsnewway#promo) (21/466) [2024] API - Interaction with API
 *  [MTS True Tech Champ](https://truetechday.ru/hack) (finalist) [2024] [Algorithms] - algorithm development
 
 ### 🌍Languages
