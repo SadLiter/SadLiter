@@ -153,8 +153,16 @@ Developed Telegram bots: the latest project involved creating a schedule bot for
         <br><h4>Blender</h4>
     </td>
     <td align="center" width="90">
-        <img alt="Figmar" width="45" height="45" style="padding:10px;" src="https://github.com/devicons/devicon/blob/v2.16.0/icons/figma/figma-original.svg" />
+        <img alt="Figma" width="45" height="45" style="padding:10px;" src="https://github.com/devicons/devicon/blob/v2.16.0/icons/figma/figma-original.svg" />
         <br><h4>Figma</h4>
+    </td>
+    <td align="center" width="90">
+        <img alt="Swagger" width="45" height="45" style="padding:10px;" src="https://github.com/devicons/devicon/blob/v2.16.0/icons/swagger/swagger-original.svg" />
+        <br><h4>Swagger</h4>
+    </td>
+    <td align="center" width="90">
+        <img alt="JMeter" width="45" height="45" style="padding:10px;" src="https://camo.githubusercontent.com/d230e699fa182b0b8b8f5ed23e0957abd6840d98a66bdd9351a37f3cb081d974/68747470733a2f2f6a6d657465722e6170616368652e6f72672f696d616765732f6c6f676f2e737667" />
+        <br><h4>JMeter</h4>
     </td>
 </table>
 
