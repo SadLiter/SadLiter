@@ -164,6 +164,11 @@ Developed Telegram bots: the latest project involved creating a schedule bot for
         <img alt="JMeter" width="45" height="45" style="padding:10px;" src="https://jmeter.apache.org/images/jmeter_square.svg" />
         <br><h4>JMeter</h4>
     </td>
+    </td>
+    <td align="center" width="90">
+        <img alt="Docker" width="45" height="45" style="padding:10px;" src="https://github.com/devicons/devicon/blob/v2.16.0/icons/docker/docker-original.svg" />
+        <br><h4>Docker</h4>
+    </td>
 </table>
 
 ### Databases
