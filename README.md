@@ -170,6 +170,16 @@ Developed Telegram bots: the latest project involved creating a schedule bot for
         <br><h4>Docker</h4>
     </td>
 </table>
+<table>
+    <td align="center" width="90">
+        <img alt="Charles Proxy" width="45" height="45" style="padding:10px;" src="https://static.macupdate.com/products/12462/l/charles-logo.png?v=1664281476" />
+        <br><h4>Charles Proxy</h4>
+    </td>
+    <td align="center" width="90">
+        <img alt="Fiddler" width="45" height="45" style="padding:10px;" src="https://alternative.me/media/256/fiddler-icon-qo9ovvwn6bktbty1-c.png" />
+        <br><h4>Fiddler</h4>
+    </td>
+</table>
 
 ### Databases
 <table>
