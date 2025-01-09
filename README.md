@@ -1,4 +1,4 @@
-<a href="#"><img align="left" alt="React" width="100%" style="padding:10px;" src="https://raw.githubusercontent.com/HighAmbition211/HighAmbition211/auxiliary/others/Welcome.svg" /></a>
+![image](https://github.com/user-attachments/assets/28d12e8f-c696-40bc-abef-c17eebac652e)<a href="#"><img align="left" alt="React" width="100%" style="padding:10px;" src="https://raw.githubusercontent.com/HighAmbition211/HighAmbition211/auxiliary/others/Welcome.svg" /></a>
 
 <h1 align="center">Hi, I'm Valentin 👋</h1>
 <h3>
@@ -172,7 +172,7 @@ Developed Telegram bots: the latest project involved creating a schedule bot for
 </table>
 <table>
     <td align="center" width="90">
-        <img alt="Charles Proxy" width="45" height="45" style="padding:10px;" src="https://static.macupdate.com/products/12462/l/charles-logo.png?v=1664281476" />
+        <img alt="Charles Proxy" width="45" height="45" style="padding:10px;" src="https://user-images.githubusercontent.com/15472/41327135-e4bf090c-6eca-11e8-9b76-032e8e2b0707.png" />
         <br><h4>Charles Proxy</h4>
     </td>
     <td align="center" width="90">
