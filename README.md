@@ -1,4 +1,4 @@
-![image](https://github.com/user-attachments/assets/28d12e8f-c696-40bc-abef-c17eebac652e)<a href="#"><img align="left" alt="React" width="100%" style="padding:10px;" src="https://raw.githubusercontent.com/HighAmbition211/HighAmbition211/auxiliary/others/Welcome.svg" /></a>
+<a href="#"><img align="left" alt="React" width="100%" style="padding:10px;" src="https://raw.githubusercontent.com/HighAmbition211/HighAmbition211/auxiliary/others/Welcome.svg" /></a>
 
 <h1 align="center">Hi, I'm Valentin 👋</h1>
 <h3>
