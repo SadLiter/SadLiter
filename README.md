@@ -15,11 +15,6 @@
     <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/82/Telegram_logo.svg/1200px-Telegram_logo.svg.png" height="40" alt="Telegram logo">
   </a>
    
-  <a href="https://drive.google.com/file/d/1vkmoMwIavD8QG7GjAYv-4ILBYpGQQ6Rb/view?usp=sharing" target="_blank" style="text-decoration: none; border: none;">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/9/9f/Curriculum-vitae-warning-icon.svg" height="40" alt="Warning icon">
-  </a>
-</h1>
-
 Developed Telegram bots: the latest project involved creating a schedule bot for college classes. Currently studying ML and DL, participating in hackathons, and constantly developing my skills.
 
 ### 🐘Education 
