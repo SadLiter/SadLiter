@@ -3,8 +3,6 @@
 <h1 align="center">Hi, I'm Valentin 👋</h1>
 <h3>
 - FullStack QA engineer<br/>
-- Backend Developer<br/>
-- Data Scientist (ML | NLP/LLM)<br/>
 </h3>
 <a href="#-my-skill-sets--"><img src="https://raw.githubusercontent.com/HighAmbition211/HighAmbition211/auxiliary/others/colorful_line.gif"></a>
 
@@ -61,47 +59,11 @@ Developed Telegram bots: the latest project involved creating a schedule bot for
     </td>
 </table>
 
-### Libraries
-<table>
-    <td align="center" width="90">
-        <img alt="NumPy" width="45" height="45" style="padding:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" />
-        <br><h4>NumPy</h4>
-    </td>
-    <td align="center" width="90">
-        <img alt="Pandas" width="45" height="45" style="padding:10px;" src="https://github.com/devicons/devicon/blob/v2.16.0/icons/pandas/pandas-original-wordmark.svg" />
-        <br><h4>Pandas</h4>
-    </td>
-    <td align="center" width="90">
-        <img alt="Scikit-learn" width="45" height="45" style="padding:10px;" src="https://github.com/devicons/devicon/blob/v2.16.0/icons/scikitlearn/scikitlearn-original.svg" />
-        <br><h4>Scikit-learn</h4>
-    </td>
-    <td align="center" width="90">
-        <img alt="Matplotlib" width="45" height="45" style="padding:10px;" src="https://github.com/devicons/devicon/blob/v2.16.0/icons/matplotlib/matplotlib-original-wordmark.svg" />
-        <br><h4>Matplotlib</h4>
-    </td>
-</table>
-
 ### Frameworks
 <table>
     <td align="center" width="90">
         <img alt="Selenium" width="45" height="45" style="padding:10px;" src="https://github.com/devicons/devicon/blob/v2.16.0/icons/selenium/selenium-original.svg" />
         <br><h4>Selenium</h4>
-    </td>
-    <td align="center" width="90">
-        <img alt="Flask" width="45" height="45" style="padding:10px;" src="https://github.com/devicons/devicon/blob/v2.16.0/icons/flask/flask-original.svg" />
-        <br><h4>Flask</h4>
-    </td>
-    <td align="center" width="90">
-        <img alt="FastAPI" width="45" height="45" style="padding:10px;" src="https://github.com/devicons/devicon/blob/v2.16.0/icons/fastapi/fastapi-original.svg" />
-        <br><h4>FastAPI</h4>
-    </td>
-    <td align="center" width="90">
-        <img alt="Django" width="45" height="45" style="padding:10px;" src="https://github.com/devicons/devicon/blob/v2.16.0/icons/django/django-plain.svg" />
-        <br><h4>Django</h4>
-    </td>
-    <td align="center" width="90">
-        <img alt="PyTorch" width="45" height="45" style="padding:10px;" src="https://github.com/devicons/devicon/blob/v2.16.0/icons/pytorch/pytorch-original.svg" />
-        <br><h4>PyTorch</h4>
     </td>
     <td align="center" width="90">
         <img alt="Qt" width="45" height="45" style="padding:10px;" src="https://github.com/devicons/devicon/blob/v2.16.0/icons/qt/qt-original.svg" />
