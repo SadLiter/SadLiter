@@ -4,7 +4,8 @@
 <h3>
 - FullStack QA engineer<br/>
 
-TryHackMe -> https://tryhackme.com/p/SadLiter
+- TryHackMe -> https://tryhackme.com/p/SadLiter
+- LeetCode -> https://leetcode.com/u/SadLiter/
 </h3>
 <a href="#-my-skill-sets--"><img src="https://raw.githubusercontent.com/HighAmbition211/HighAmbition211/auxiliary/others/colorful_line.gif"></a>
 
