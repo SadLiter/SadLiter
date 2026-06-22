@@ -13,7 +13,7 @@
 
 Fullstack Automation QA Engineer focused on end-to-end and API test automation. I build and maintain UI automation with Playwright and Selenium, API tests with REST Assured, and test frameworks in Python, TypeScript, and Java — with an emphasis on stable, maintainable, CI-friendly suites.
 
-<a href="https://t.me/armulyukov_17" target="_blank" style="text-decoration: none; border: none;">
+<a href="https://t.me/SadLiter" target="_blank" style="text-decoration: none; border: none;">
   <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/82/Telegram_logo.svg/1200px-Telegram_logo.svg.png" height="40" alt="Telegram">
 </a>
 
