@@ -9,34 +9,18 @@
 </h3>
 <a href="#-my-skill-sets--"><img src="https://raw.githubusercontent.com/HighAmbition211/HighAmbition211/auxiliary/others/colorful_line.gif"></a>
 
-### ☀️Summary)
+### ☀️ Summary
 
-<h1 align="left">
-  <a href="https://t.me/armulyukov_17" target="_blank" style="text-decoration: none; border: none;">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/82/Telegram_logo.svg/1200px-Telegram_logo.svg.png" height="40" alt="Telegram logo">
-  </a>
-   
-Developed Telegram bots: the latest project involved creating a schedule bot for college classes. Currently studying ML and DL, participating in hackathons, and constantly developing my skills.
+Fullstack Automation QA Engineer focused on end-to-end and API test automation. I build and maintain UI automation with Playwright and Selenium, API tests with REST Assured, and test frameworks in Python, TypeScript, and Java — with an emphasis on stable, maintainable, CI-friendly suites.
 
-### 🐘Education 
+<a href="https://t.me/armulyukov_17" target="_blank" style="text-decoration: none; border: none;">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/82/Telegram_logo.svg/1200px-Telegram_logo.svg.png" height="40" alt="Telegram">
+</a>
+
+### 🐘 Education
 <a href="https://misis.ru/">NUST MISIS</a> | Moscow | BS | Computer Science
 
-### 👨‍🎓Additional Education
-- [Deep Learning School by MIPT (2024)](https://dls.samcs.ru/): 2 semesters of machine learning and neural networks (NLP)
-- [Yandex: Machine Learning](https://lyceum.yandex.ru/ml): Machine Learning algorithms
-- [Bioinformatics Institute](https://stepik.org/course/76/syllabus): Fundamentals of statistics
-
-
-### 🏆Competitions
-*  [IT Hackathon in Novgorod](https://hacks-ai.ru/) (4/32) [2024] [LLM] - 4th place. Development and implementation of AI for environmental tasks.
-*  [BIV Hack Challenge](https://biv-challenge.ru/) (5/64) [2024] [NLP] - Automation of payment processing
-*  [EVRAZ Hackathon](https://xn--80aaaairqt2ajzt9a.xn--p1ai/#rec812246603) (11/52) [2024] [LLM] - CodeReview bot
-*  [Gameton DatsMagic](https://datsteam.dev/datsmagic) (17/475) [2024] [API] - Interaction with API
-*  [Gameton DatsNewWay](https://datsteam.dev/datsnewway#promo) (21/466) [2024] API - Interaction with API
-*  [Crowdtesting](https://crowdtesting.ru/) (11/2564) [2024] [Crowdtesting] - FPS Testing
-*  [MTS True Tech Champ](https://truetechday.ru/hack) (finalist) [2024] [Algorithms] - algorithm development
-
-### 🌍Languages
+### 🌍 Spoken Languages
 *   English: Upper Intermediate (B2)
 *   Russian: Native
 
@@ -45,40 +29,36 @@ Developed Telegram bots: the latest project involved creating a schedule bot for
 ### Languages
 <table>
     <td align="center" width="90">
-        <a href="https://www.python.org/" target="_blank"><img alt="Python" width="45" height="45" style="padding:10px;" src="https://raw.githubusercontent.com/HighAmbition211/HighAmbition211/auxiliary/languages/python.svg" /></a>
+        <img alt="Python" width="45" height="45" style="padding:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" />
         <br><h4>Python</h4>
     </td>
     <td align="center" width="90">
-        <a href="https://csharp-station.com/" target="_blank"><img alt="C#" width="45" height="45" style="padding:10px;" src="https://raw.githubusercontent.com/HighAmbition211/HighAmbition211/auxiliary/languages/c%23.svg" /></a>
-        <br><h4>C#</h4>
+        <img alt="TypeScript" width="45" height="45" style="padding:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" />
+        <br><h4>TypeScript</h4>
     </td>
     <td align="center" width="90">
-        <a href="https://csharp-station.com/" target="_blank"><img alt="CSS" width="45" height="45" style="padding:10px;" src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" /></a>
-        <br><h4>HTML</h4>
-    </td>
-    <td align="center" width="90">
-        <a href="https://csharp-station.com/" target="_blank"><img alt="HTML" width="45" height="45" style="padding:10px;" src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original.svg" /></a>
-        <br><h4>CSS</h4>
+        <img alt="Java" width="45" height="45" style="padding:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" />
+        <br><h4>Java</h4>
     </td>
 </table>
 
 ### Frameworks
 <table>
     <td align="center" width="90">
-        <img alt="Selenium" width="45" height="45" style="padding:10px;" src="https://github.com/devicons/devicon/blob/v2.16.0/icons/selenium/selenium-original.svg" />
+        <img alt="Playwright" width="45" height="45" style="padding:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/playwright/playwright-original.svg" />
+        <br><h4>Playwright</h4>
+    </td>
+    <td align="center" width="90">
+        <img alt="Selenium" width="45" height="45" style="padding:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/selenium/selenium-original.svg" />
         <br><h4>Selenium</h4>
     </td>
     <td align="center" width="90">
-        <img alt="Qt" width="45" height="45" style="padding:10px;" src="https://github.com/devicons/devicon/blob/v2.16.0/icons/qt/qt-original.svg" />
-        <br><h4>Qt</h4>
-    </td>
-    <td align="center" width="90">
-        <img alt="PyTest" width="45" height="45" style="padding:10px;" src="https://github.com/devicons/devicon/blob/v2.16.0/icons/pytest/pytest-original.svg" />
+        <img alt="PyTest" width="45" height="45" style="padding:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytest/pytest-original.svg" />
         <br><h4>PyTest</h4>
     </td>
     <td align="center" width="90">
-        <img alt="JUnit" width="45" height="45" style="padding:10px;" src="https://github.com/devicons/devicon/blob/master/icons/junit/junit-original.svg" />
-        <br><h4>JUnit</h4>
+        <img alt="REST Assured" width="45" height="45" style="padding:10px;" src="https://rest-assured.io/img/logo-transparent.png" />
+        <br><h4>RestAssured</h4>
     </td>
 </table>
 
@@ -97,63 +77,52 @@ Developed Telegram bots: the latest project involved creating a schedule bot for
         <br><h4>VS Code</h4>
     </td>
     <td align="center" width="90">
-        <img alt="Visual Studio" width="45" height="45" style="padding:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/visualstudio/visualstudio-plain.svg" />
-        <br><h4>Visual Studio</h4>
-    </td>
-    <td align="center" width="90">
-        <img alt="Linux" width="45" height="45" style="padding:10px;" src="https://github.com/devicons/devicon/blob/v2.16.0/icons/linux/linux-original.svg" />
+        <img alt="Linux" width="45" height="45" style="padding:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" />
         <br><h4>Linux</h4>
     </td>
     <td align="center" width="90">
-        <img alt="Postman" width="45" height="45" style="padding:10px;" src="https://github.com/devicons/devicon/blob/v2.16.0/icons/postman/postman-original.svg" />
+        <img alt="Postman" width="45" height="45" style="padding:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postman/postman-original.svg" />
         <br><h4>Postman</h4>
     </td>
     <td align="center" width="90">
-        <img alt="Blender" width="45" height="45" style="padding:10px;" src="https://github.com/devicons/devicon/blob/v2.16.0/icons/blender/blender-original.svg" />
-        <br><h4>Blender</h4>
-    </td>
-    <td align="center" width="90">
-        <img alt="Figma" width="45" height="45" style="padding:10px;" src="https://github.com/devicons/devicon/blob/v2.16.0/icons/figma/figma-original.svg" />
-        <br><h4>Figma</h4>
-    </td>
-    <td align="center" width="90">
-        <img alt="Swagger" width="45" height="45" style="padding:10px;" src="https://github.com/devicons/devicon/blob/v2.16.0/icons/swagger/swagger-original.svg" />
+        <img alt="Swagger" width="45" height="45" style="padding:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/swagger/swagger-original.svg" />
         <br><h4>Swagger</h4>
     </td>
     <td align="center" width="90">
         <img alt="JMeter" width="45" height="45" style="padding:10px;" src="https://jmeter.apache.org/images/jmeter_square.svg" />
         <br><h4>JMeter</h4>
     </td>
-    </td>
     <td align="center" width="90">
-        <img alt="Docker" width="45" height="45" style="padding:10px;" src="https://github.com/devicons/devicon/blob/v2.16.0/icons/docker/docker-original.svg" />
+        <img alt="Docker" width="45" height="45" style="padding:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" />
         <br><h4>Docker</h4>
     </td>
-</table>
-<table>
     <td align="center" width="90">
         <img alt="Charles Proxy" width="45" height="45" style="padding:10px;" src="https://user-images.githubusercontent.com/15472/41327135-e4bf090c-6eca-11e8-9b76-032e8e2b0707.png" />
         <br><h4>Charles Proxy</h4>
     </td>
-    <td align="center" width="90">
-        <img alt="Fiddler" width="45" height="45" style="padding:10px;" src="https://alternative.me/media/256/fiddler-icon-qo9ovvwn6bktbty1-c.png" />
-        <br><h4>Fiddler</h4>
-    </td>
 </table>
 
-### Databases
+### AI Tools
 <table>
     <td align="center" width="90">
-        <img alt="PostgreSQL" width="45" height="45" style="padding:10px;" src="https://github.com/devicons/devicon/blob/v2.16.0/icons/postgresql/postgresql-original.svg" />
-        <br><h4>PostgreSQL</h4>
+        <img alt="Cursor" width="45" height="45" style="padding:10px;" src="https://cdn.simpleicons.org/cursor" />
+        <br><h4>Cursor</h4>
     </td>
     <td align="center" width="90">
-        <img alt="SQLite" width="45" height="45" style="padding:10px;" src="https://github.com/devicons/devicon/blob/v2.16.0/icons/sqlite/sqlite-original.svg" />
-        <br><h4>SQLite</h4>
+        <img alt="Claude Code" width="45" height="45" style="padding:10px;" src="https://cdn.simpleicons.org/claude" />
+        <br><h4>Claude Code</h4>
     </td>
     <td align="center" width="90">
-        <img alt="Microsoft SQL Server" width="45" height="45" style="padding:10px;" src="https://github.com/devicons/devicon/blob/master/icons/microsoftsqlserver/microsoftsqlserver-original.svg" />
-        <br><h4>Microsoft SQL Server</h4>
+        <img alt="Codex" width="45" height="45" style="padding:10px;" src="https://upload.wikimedia.org/wikipedia/commons/0/04/ChatGPT_logo.svg" />
+        <br><h4>Codex</h4>
+    </td>
+    <td align="center" width="90">
+        <img alt="ChatGPT" width="45" height="45" style="padding:10px;" src="https://upload.wikimedia.org/wikipedia/commons/0/04/ChatGPT_logo.svg" />
+        <br><h4>ChatGPT</h4>
+    </td>
+    <td align="center" width="90">
+        <img alt="Warp" width="45" height="45" style="padding:10px;" src="https://cdn.simpleicons.org/warp" />
+        <br><h4>Warp</h4>
     </td>
 </table>
 
