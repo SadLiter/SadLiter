@@ -1,5 +1,3 @@
-<a href="#"><img align="left" alt="React" width="100%" style="padding:10px;" src="https://raw.githubusercontent.com/HighAmbition211/HighAmbition211/auxiliary/others/Welcome.svg" /></a>
-
 <h1 align="center">Hi, I'm Valentin 👋</h1>
 <h3>
 - FullStack QA engineer<br/>
@@ -12,10 +10,6 @@
 ### ☀️ Summary
 
 Fullstack Automation QA Engineer focused on end-to-end and API test automation. I build and maintain UI automation with Playwright and Selenium, API tests with REST Assured, and test frameworks in Python, TypeScript, and Java — with an emphasis on stable, maintainable, CI-friendly suites.
-
-<a href="https://t.me/SadLiter" target="_blank" style="text-decoration: none; border: none;">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/82/Telegram_logo.svg/1200px-Telegram_logo.svg.png" height="40" alt="Telegram">
-</a>
 
 ### 🐘 Education
 <a href="https://misis.ru/">NUST MISIS</a> | Moscow | BS | Computer Science
